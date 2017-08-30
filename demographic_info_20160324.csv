@@ -1,0 +1,158 @@
+NRIC,School,Programme,Gender,PCHI,Flat_Type
+T0401009J,Play Hard Primary School,PASS,F,434,OWNED
+T0401624G,Normal Primary School,EXCEL,F,386,OWNED
+T0401716B,Play Hard Primary School,EXCEL,F,424,OWNED
+T0401772I,Normal Primary School,PASS,F,357,OWNED
+T0401822H,Normal Primary School,PASS,M,147,RENTAL
+T0402018D,Play Hard Primary School,PASS,F,911,OWNED
+T0402185Z,Play Hard Primary School,PASS,F,368,OWNED
+T0402310E,Play Hard Primary School,EXCEL,F,532,OWNED
+T0402468D,Kiasu Parents Primary School,PASS,M,0,RENTAL
+T0402514I,Play Hard Primary School,EXCEL,F,505,OWNED
+T0403422B,Play Hard Primary School,PASS,M,660,OWNED
+T0403423B,Normal Primary School,PASS,F,856,OWNED
+T0403815I,Normal Primary School,PASS,F,0,RENTAL
+T0403843Z,Play Hard Primary School,PASS,M,431,OWNED
+T0404094C,Kiasu Parents Primary School,EXCEL,F,0,RENTAL
+T0404191A,Play Hard Primary School,PASS,F,395,RENTAL
+T0404219C,Play Hard Primary School,PASS,F,526,OWNED
+T0404370H,Kiasu Parents Primary School,EXCEL,M,967,OWNED
+T0404795Z,Play Hard Primary School,PASS,M,964,OWNED
+T0405164I,Normal Primary School,PASS,M,501,OWNED
+T0405211Z,Normal Primary School,PASS,F,750,OWNED
+T0405416H,Normal Primary School,EXCEL,F,774,OWNED
+T0405731F,Play Hard Primary School,PASS,M,937,OWNED
+T0406519J,Normal Primary School,PASS,M,994,OWNED
+T0406727C,Play Hard Primary School,EXCEL,F,293,RENTAL
+T0406766H,Play Hard Primary School,PASS,M,259,RENTAL
+T0406903H,Normal Primary School,PASS,M,308,RENTAL
+T0407298E,Play Hard Primary School,PASS,M,894,OWNED
+T0407452Z,Play Hard Primary School,EXCEL,M,628,OWNED
+T0407562G,Normal Primary School,PASS,M,761,OWNED
+T0407907Z,Normal Primary School,EXCEL,M,469,OWNED
+T0407909A,Normal Primary School,PASS,M,657,OWNED
+T0408287A,Kiasu Parents Primary School,EXCEL,F,535,OWNED
+T0408316F,Normal Primary School,PASS,M,356,OWNED
+T0408417Z,Play Hard Primary School,EXCEL,F,122,RENTAL
+T0408820J,Kiasu Parents Primary School,EXCEL,M,660,OWNED
+T0409106B,Play Hard Primary School,EXCEL,M,393,RENTAL
+T0409261Z,Normal Primary School,EXCEL,M,503,OWNED
+T0409646B,Kiasu Parents Primary School,PASS,F,671,OWNED
+T0410118D,Normal Primary School,PASS,M,0,RENTAL
+T0410146J,Normal Primary School,EXCEL,F,583,OWNED
+T0410270I,Normal Primary School,EXCEL,M,416,OWNED
+T0410766E,Normal Primary School,PASS,M,420,RENTAL
+T0410971C,Kiasu Parents Primary School,EXCEL,M,864,OWNED
+T0411306E,Kiasu Parents Primary School,EXCEL,F,776,OWNED
+T0411405I,Play Hard Primary School,PASS,F,NA,OWNED
+T0412538Z,Play Hard Primary School,PASS,F,555,OWNED
+T0412942B,Kiasu Parents Primary School,EXCEL,F,933,OWNED
+T0413255A,Normal Primary School,PASS,F,NA,OWNED
+T0413356B,Play Hard Primary School,EXCEL,F,374,RENTAL
+T0413377I,Kiasu Parents Primary School,PASS,M,647,OWNED
+T0413411A,Kiasu Parents Primary School,PASS,F,558,OWNED
+T0413520D,Normal Primary School,PASS,F,692,OWNED
+T0413752H,Normal Primary School,PASS,F,727,OWNED
+T0413933D,Normal Primary School,PASS,F,732,OWNED
+T0414246A,Kiasu Parents Primary School,PASS,F,734,OWNED
+T0414259G,Play Hard Primary School,PASS,F,716,OWNED
+T0414627Z,Kiasu Parents Primary School,PASS,F,920,OWNED
+T0414807D,Play Hard Primary School,PASS,F,859,OWNED
+T0415057F,Normal Primary School,PASS,M,921,OWNED
+T0415272I,Kiasu Parents Primary School,EXCEL,F,972,OWNED
+T0415357J,Kiasu Parents Primary School,PASS,M,624,OWNED
+T0415421C,Play Hard Primary School,EXCEL,M,677,OWNED
+T0415425G,Play Hard Primary School,PASS,F,424,OWNED
+T0415427J,Kiasu Parents Primary School,EXCEL,M,684,OWNED
+T0415611B,Play Hard Primary School,PASS,F,720,OWNED
+T0415879J,Normal Primary School,PASS,M,782,OWNED
+T0416244J,Normal Primary School,PASS,M,NA,OWNED
+T0416699H,Normal Primary School,PASS,M,463,OWNED
+T0417308A,Play Hard Primary School,EXCEL,M,872,OWNED
+T0417488H,Normal Primary School,EXCEL,M,624,OWNED
+T0417555I,Kiasu Parents Primary School,EXCEL,F,968,OWNED
+T0417766G,Kiasu Parents Primary School,PASS,F,896,OWNED
+T0417826I,Normal Primary School,PASS,F,754,OWNED
+T0417909Z,Normal Primary School,EXCEL,F,134,RENTAL
+T0418145F,Normal Primary School,PASS,F,699,OWNED
+T0418916C,Play Hard Primary School,EXCEL,M,613,OWNED
+T0419225G,Normal Primary School,PASS,M,642,OWNED
+T0419425J,Kiasu Parents Primary School,PASS,M,768,OWNED
+T0419761E,Normal Primary School,PASS,M,NA,OWNED
+T0419774B,Normal Primary School,PASS,M,488,OWNED
+T0420016C,Kiasu Parents Primary School,PASS,F,705,OWNED
+T0420131Z,Kiasu Parents Primary School,PASS,F,916,OWNED
+T0420191I,Normal Primary School,PASS,F,460,OWNED
+T0420303G,Play Hard Primary School,EXCEL,M,156,RENTAL
+T0420377G,Kiasu Parents Primary School,PASS,M,607,OWNED
+T0420568J,Normal Primary School,PASS,M,NA,OWNED
+T0420774I,Normal Primary School,PASS,M,926,OWNED
+T0420994Z,Kiasu Parents Primary School,EXCEL,M,604,OWNED
+T0421767C,Play Hard Primary School,EXCEL,F,212,RENTAL
+T0421935A,Normal Primary School,PASS,F,980,OWNED
+T0422487A,Kiasu Parents Primary School,PASS,M,631,OWNED
+T0422854F,Kiasu Parents Primary School,EXCEL,M,713,OWNED
+T0422907A,Normal Primary School,PASS,F,375,OWNED
+T0423382I,Normal Primary School,PASS,M,511,OWNED
+T0423730F,Play Hard Primary School,PASS,F,764,OWNED
+T0423978H,Normal Primary School,PASS,M,945,OWNED
+T0424028B,Kiasu Parents Primary School,PASS,F,832,OWNED
+T0424303E,Kiasu Parents Primary School,EXCEL,F,783,OWNED
+T0424374J,Kiasu Parents Primary School,EXCEL,F,NA,OWNED
+T0424618F,Normal Primary School,PASS,M,439,RENTAL
+T0425099D,Normal Primary School,PASS,F,897,OWNED
+T0425151C,Play Hard Primary School,PASS,M,446,OWNED
+T0425811J,Normal Primary School,EXCEL,M,730,OWNED
+T0425991G,Normal Primary School,PASS,M,NA,OWNED
+T0426117F,Normal Primary School,PASS,M,955,OWNED
+T0426141D,Normal Primary School,PASS,F,871,OWNED
+T0426231E,Play Hard Primary School,EXCEL,M,177,RENTAL
+T0426234A,Normal Primary School,EXCEL,F,749,OWNED
+T0426344D,Normal Primary School,PASS,M,362,OWNED
+T0426482G,Normal Primary School,EXCEL,F,635,OWNED
+T0427757F,Play Hard Primary School,PASS,F,465,OWNED
+T0428104D,Kiasu Parents Primary School,EXCEL,M,911,OWNED
+T0428113E,Play Hard Primary School,EXCEL,F,376,RENTAL
+T0428157C,Normal Primary School,PASS,F,223,RENTAL
+T0428215J,Play Hard Primary School,PASS,F,647,OWNED
+T0428266E,Play Hard Primary School,PASS,M,0,RENTAL
+T0428433I,Normal Primary School,PASS,F,814,OWNED
+T0428847J,Play Hard Primary School,PASS,M,780,OWNED
+T0429239A,Play Hard Primary School,PASS,M,0,RENTAL
+T0429947A,Play Hard Primary School,PASS,M,530,OWNED
+T0430856B,Kiasu Parents Primary School,EXCEL,M,612,OWNED
+T0431284Z,Normal Primary School,PASS,F,381,OWNED
+T0431346C,Play Hard Primary School,PASS,F,820,OWNED
+T0432143Z,Normal Primary School,EXCEL,M,921,OWNED
+T0432219A,Normal Primary School,PASS,F,629,OWNED
+T0432267Z,Play Hard Primary School,PASS,M,371,OWNED
+T0432586C,Play Hard Primary School,PASS,F,804,OWNED
+T0432774H,Play Hard Primary School,EXCEL,F,988,OWNED
+T0433179H,Kiasu Parents Primary School,PASS,F,919,OWNED
+T0433483G,Normal Primary School,PASS,M,311,RENTAL
+T0433605J,Play Hard Primary School,PASS,M,689,OWNED
+T0433822G,Normal Primary School,PASS,M,713,OWNED
+T0433867E,Play Hard Primary School,PASS,F,536,OWNED
+T0433983H,Play Hard Primary School,PASS,M,413,OWNED
+T0434198I,Play Hard Primary School,EXCEL,M,423,OWNED
+T0434672J,Kiasu Parents Primary School,EXCEL,F,NA,OWNED
+T0434816J,Play Hard Primary School,PASS,F,471,OWNED
+T0435098E,Normal Primary School,PASS,M,544,OWNED
+T0435288Z,Play Hard Primary School,PASS,M,0,RENTAL
+T0435550C,Normal Primary School,EXCEL,M,232,RENTAL
+T0435772J,Normal Primary School,PASS,F,359,OWNED
+T0435788Z,Normal Primary School,PASS,F,371,OWNED
+T0436032A,Normal Primary School,PASS,M,776,OWNED
+T0436207F,Kiasu Parents Primary School,PASS,M,823,OWNED
+T0436284E,Play Hard Primary School,EXCEL,M,233,RENTAL
+T0436803E,Normal Primary School,EXCEL,M,310,RENTAL
+T0437129C,Normal Primary School,PASS,F,758,OWNED
+T0437745I,Normal Primary School,PASS,M,670,OWNED
+T0437982Z,Kiasu Parents Primary School,PASS,M,806,OWNED
+T0438086Z,Play Hard Primary School,PASS,M,611,OWNED
+T0438240G,Play Hard Primary School,PASS,F,448,OWNED
+T0438586I,Kiasu Parents Primary School,EXCEL,F,607,OWNED
+T0438895A,Normal Primary School,EXCEL,F,447,OWNED
+T0439429B,Kiasu Parents Primary School,PASS,M,654,OWNED
+T0439539Z,Play Hard Primary School,EXCEL,F,458,OWNED
+T0439810G,Normal Primary School,EXCEL,F,985,OWNED
