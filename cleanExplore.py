@@ -39,7 +39,7 @@ data['2015_Result'].fillna(np.mean(data['2015_Result']),inplace=True)
 data = data.astype({'School':'category', 'Programme':'category', 'Gender':'category','Flat_Type':'category'})    
 data['PSLE_Result'] = data['PSLE_Result'].astype('category', ordered=True)
 data['PSLE_Result'] = data['PSLE_Result'].cat.reorder_categories(['U','E','D','C','B','A','A*'])
-data.to_csv("Data\\clean.csv")
+data.to_csv("Data\\clean.csv", index=False)
 #%%
 #Distribution Plots
 sns.distplot(data['PCHI'],kde=False,fit=stats.gamma)
