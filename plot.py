@@ -49,6 +49,7 @@ countplotter(x='PSLE_Result',data=data)
 
 [boxplotter(x=cat, y="PSLE_Result", data=data, showmeans=True) for cat in catVar]
 [boxplotter(x='Programme', y=score, data=data, showmeans=True) for score in scores]
+boxplotter(x='att_pass', y = 'PSLE_Result', data = att_merge, showmeans=True, size = (4,8))
 
 #%% Improvement plots
 

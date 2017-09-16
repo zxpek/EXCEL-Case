@@ -53,3 +53,7 @@ data_OneHotInvertible = data_OneHot.drop([j+"_"+data[j].unique()[-1] for j in ca
 
 dataX = data_OneHotInvertible.drop(['NRIC','PSLE_Result','2015_Result'], axis = 1)
 dataY = data_OneHotInvertible['PSLE_Result']
+
+#%%
+attendanceVals = attendance.drop(['NRIC','School','Programme'], axis = 1).replace({'P':1,'N':0})
+

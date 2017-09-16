@@ -78,3 +78,13 @@ playhard = data.loc[(data['School'] == 'Play Hard Primary School') & (data['Prog
 
 school_ftest = stats.f_oneway(kiasu, normal, playhard)
 print(school_ftest)
+
+#%% Attendance
+print((attendanceVals.sum(axis=1)/20 >= 0.8).sum()/53)
+print((attendanceVals.sum(axis=1)/20 ).mean())
+attendance['att_pass'] = (attendanceVals.sum(axis=1)/20 >= 0.8)
+att_merge = attendance.merge(data, on = ['NRIC','School','Programme'])
+att_pass = att_merge.loc[att_merge['att_pass'],'PSLE_Result']
+att_fail = att_merge.loc[att_merge['att_pass'] == False,'PSLE_Result']
+
+stats.ttest_ind(att_pass,att_fail)
